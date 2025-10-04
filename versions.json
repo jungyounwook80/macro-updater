@@ -1,0 +1,11 @@
+{
+  "latest": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "date": "2025-01-15",
+      "notes": "첫 배포 - 직접 배포됨",
+      "download_url": ""
+    }
+  ]
+}
