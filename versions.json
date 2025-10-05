@@ -1,8 +1,8 @@
 {
-  "latest": "1.4.0",
+  "latest": "2.0.0",
   "versions": [
     {
-      "version": "1.4.0",
+      "version": "2.0.0",
       "date": "2025-01-05",
       "notes": "한글 표시 수정"
     },
